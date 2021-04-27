@@ -28,4 +28,4 @@ Before running your day, update `aoct.json` with the following content:
 
 ## 📝 Documentation
 
-This template uses an npm repository named `aoct`. Check the full documentation [here](https://github.com/mariofdezzz/aoct).
+This template uses an npm repository named `aoct`. Check the full documentation at [github](https://github.com/mariofdezzz/aoct).
