@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "aoct": "^0.2.0"
+    "aoct": "^0.2.2"
   }
 }
