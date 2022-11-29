@@ -1,20 +1,18 @@
 # 🎄 AoC Node.js Template
 
-This template provides an easy and quick way to start with Advent of Code problems in JavaScript and TypeScript.
+This template provides an easy and quick way to start with Advent of Code problems in JavaScript and TypeScript with [Cloud Dev Environment in Gitpod](https://www.gitpod.io/cde)
 
-## 🚀 Start!
+## Template setup
 
-After template this repository, run the following command to install dependencies.
+### Create your repository 📝
 
-```sh
-npm ci
-```
+- Click [`Use this template`](https://github.com/Gitpod-Samples/aoc-node-template/generate) and create your repository.
 
-Now just run your day.
+### Start Working ⚡💻
 
-```sh
-npm run day1
-```
+- Open a [Cloud Dev Environment in Gitpod](https://www.gitpod.io/cde) by clicking the following button:
+
+  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer)
 
 ## ⚡ Typescript
 
